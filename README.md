@@ -9,4 +9,4 @@ Usage: ./cellular.pl <0-255>
 
 Example:
 
-![ScreenShot](url:http://imgur.com/ul9xhCz)
+![ScreenShot](http://i.imgur.com/ul9xhCz.png)
